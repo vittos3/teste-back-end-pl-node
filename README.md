@@ -42,6 +42,7 @@ CRUD para Beneficiário, Médico, Hospital, Consulta, Observação (Opcional):
 - Seu código deve estar disponível no GitHub para acesso público.
 - Crie um arquivo `README.md` detalhando como configurar, executar e testar a aplicação.
 - Faça um fork deste repositório para iniciar o desenvolvimento.
+- A entrega deve ser feita até o dia 12/08/2024.
 
 ---
 
